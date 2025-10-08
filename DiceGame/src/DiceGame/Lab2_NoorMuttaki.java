@@ -1,11 +1,11 @@
-package DiceGame;   // lowercase package names are best practice
+package DiceGame;
 
 import java.util.Random;
 
-public class lab2_noormuttaki {
+public class Lab2_NoorMuttaki {
     private Random random;
 
-    public lab2_noormuttaki() {
+    public Lab2_NoorMuttaki() {
         random = new Random();
     }
 

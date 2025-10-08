@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class lab2_noormuttakidriver {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        lab2_noormuttaki game = new lab2_noormuttaki();
+        Lab2_NoorMuttaki game = new Lab2_NoorMuttaki();
 
         System.out.println("Welcome to the Dice Game!");
         System.out.println("Press Enter to roll 4 dice...");
